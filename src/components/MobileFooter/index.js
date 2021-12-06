@@ -1,4 +1,4 @@
-export default function MobileFoter() {
+export default function MobileFooter() {
   return (
     <div class="fundo-mobile">
       <ion-icon name="home"></ion-icon>
